@@ -1,6 +1,6 @@
 .idea/
-!docker/databases/.gitkeep
-docker/databases/*
-!docker/logs/nginx/.gitkeep
-!docker/logs/php/.gitkeep
-docker/logs/*
+!docker-php56/databases/.gitkeep
+docker-php56/databases/*
+!docker-php56/logs/nginx/.gitkeep
+!docker-php56/logs/php/.gitkeep
+docker-php56/logs/*
