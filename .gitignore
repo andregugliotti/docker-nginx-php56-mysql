@@ -1,0 +1,6 @@
+.idea/
+!docker/databases/.gitkeep
+docker/databases/*
+!docker/logs/nginx/.gitkeep
+!docker/logs/php/.gitkeep
+docker/logs/*
